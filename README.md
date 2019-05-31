@@ -1,6 +1,9 @@
 # cookbook-uikit
 
-## Сбор "книги"  
-npm install gitbook-cli
+[Репозиторий проекта](https://github.com/NathanStark/cookbook-uikit)
 
-./node_modules/.bin/gitbook build ../
+## Сбор "книги"
+```  
+npm install gitbook-cli
+./node_modules/.bin/gitbook build
+```
