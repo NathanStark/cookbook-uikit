@@ -1,2 +1,4 @@
 gitbook/node_modules
 gitbook/docs/.idea
+gitbook/docs/package-lock.json
+gitbook/_book
